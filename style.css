@@ -41,3 +41,68 @@
   background-color: #04AA6D;
   color: white;
 }
+
+/* Main thing starts yaha*/
+
+.main h3{
+  font-family: 'Kanit';
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  color: black;
+}
+
+.main h5{
+  text-align: center;
+  color: #333;
+  font-size: 15px;
+}
+
+.main img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main h4{
+  text-align: center;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  
+}
+
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+.animeseriesmain h3{
+  font-family: 'Kanit';
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  color: black;
+}
+
+.animeseriesmain h5{
+  text-align: center;
+  color: #333;
+  font-size: 15px;
+}
+
+.animeseriesmain img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.animeseriesmain h4{
+  text-align: center;
+}

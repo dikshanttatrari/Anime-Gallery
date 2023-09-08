@@ -1,3 +1,3 @@
 # Anime-Gallery
 
-Namoste public 🤓
+Hello World 🤓
